@@ -1,6 +1,6 @@
 # InnSearchTelegramBot 
 
-**InnSearchTelegramBot** — это Telegram-бот, который позволяет получать информацию о компаниях по ИНН с использованием Dadata API.
+**InnSearchTelegramBot** — это Telegram-бот, который позволяет получать информацию о компании по ИНН через Dadata API.
 
 > Реализовано на C# с использованием .NET и архитектуры на основе DI и сервисов.
 
