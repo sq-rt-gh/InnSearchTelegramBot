@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>11cb7fac-dbf3-4433-b177-979489ff3aa1</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dadata" Version="25.4.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.6" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="9.0.6" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="9.0.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Telegram.Bot" Version="22.5.1" />
+  </ItemGroup>
+
+</Project>
